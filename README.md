@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jai! <br/><a href="https://github.com/JJ194">Programmer</a>, <a href="https://www.linkedin.com/in/jai-o-grady-724ba3245/">Trader</a>, BSc Finance & Investment planning to pursue MSc Computational Finance
+<h1>Hi, I'm Jai! <br/><a href="https://github.com/JJ194">Programmer</a>, <a href="https://www.linkedin.com/in/jai-o-grady-724ba3245/">Trader</a>, BSc Finance & Investment planning to pursue further studies
 
 <h2>🖥️ Programming Projects:</h2>
 
