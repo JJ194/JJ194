@@ -2,13 +2,13 @@
 
 <h2>🖥️ Programming Projects:</h2>
 
-- <b>Chess Game </b>
+- <b>Chinese Character Learning App</b>
 
 - <b>Currency Converter</b>
 
 - <b>Slot Machine Project</b>
 
-- <b>Chinese Character Learning App</b>
+- <b>Chess Game</b>
 
 <h2>🗠Quantitative Projects</h2>
 
