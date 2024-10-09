@@ -20,4 +20,6 @@
 
 - <b>Option Pricing Model - Black Scholes Model</b>
 
-<h2>💹Trades log (wiped + updated monthly)</h2>
+<h2>💹Trades log</h2>
+
+- <b> <br/><a href="https://imgur.com/a/09-10-2024-3-45-1-account-risk-BKFoBgu">October 2024 - Trades</a>
