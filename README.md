@@ -8,7 +8,7 @@
 
 - <b>Slot Machine Project</b>
 
-- <b>Automated Study Planner </b>
+- <b>Chinese Character Learning App</b>
 
 <h2>🗠Quantitative Projects</h2>
 
