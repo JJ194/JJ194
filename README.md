@@ -20,6 +20,8 @@
 
 - <b>Option Pricing Model - Black Scholes Model</b>
 
+- <b>Mean Variance Portfolio Optimisation - Sharpe Ratio</b>
+
 <h2>💹Trades log</h2>
 
 - <b><a href="https://imgur.com/a/09-10-2024-3-45-1-account-risk-BKFoBgu">October 2024 - Trades</a>
