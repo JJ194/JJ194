@@ -19,7 +19,8 @@
 - <b>ML Project - K-Means Clustering Visualiser </b>
 
 - <b>Option Pricing Model - Black Scholes Model</b>
-<br/><a href="https://github.com/JJ194/Mean-Variance-Portfolio-Optimisation-Sharpe-Ratio">- Mean Variance Portfolio Optimisation - Sharpe Ratio</a>
+
+- [Mean Variance Portfolio Optimisation - Sharpe Ratio](https://github.com/JJ194/Mean-Variance-Portfolio-Optimisation-Sharpe-Ratio)
 
 <h2>💹Trades log</h2>
 
