@@ -12,15 +12,15 @@
 
 <h2>🗠Quantitative Projects</h2>
 
+- [Option Pricing Model - Black Scholes Model](https://github.com/JJ194/Black-Scholes-Pricing-Model/tree/main)
+
+- [Mean Variance Portfolio Optimisation - Sharpe Ratio](https://github.com/JJ194/Mean-Variance-Portfolio-Optimisation-Sharpe-Ratio)
+
 - <b>Web Scraping Algorithm for "high risk high reward equities" </b>
 
 - <b>Trading Engine from scratch</b>
 
 - <b>ML Project - K-Means Clustering Visualiser </b>
-
-- <b>Option Pricing Model - Black Scholes Model</b>
-
-- [Mean Variance Portfolio Optimisation - Sharpe Ratio](https://github.com/JJ194/Mean-Variance-Portfolio-Optimisation-Sharpe-Ratio)
 
 <h2>💹Trades log</h2>
 
