@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jai! <br/><a href="https://github.com/JJ194">Programmer</a>, <a href="https://www.linkedin.com/in/jai-o-grady-724ba3245/">Trader</a>, BSc Finance & Investment planning to pursue further studies
 
-<h2>🖥️ Programming Projects:</h2>
+<h2>🖥️ Simple Projects:</h2>
 
 - [Chinese Character Learning App](https://github.com/JJ194/Chinese-Character-Game/blob/main/Character%20Game.py)
 
