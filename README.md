@@ -2,7 +2,7 @@
 
 <h2>🖥️ Programming Projects:</h2>
 
-- <b>Chinese Character Learning App</b>
+- [Chinese Character Learning App](https://github.com/JJ194/Chinese-Character-Game/blob/main/Character%20Game.py)
 
 - <b>Currency Converter</b>
 
