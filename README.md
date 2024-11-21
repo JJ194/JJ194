@@ -22,6 +22,5 @@
 
 - <b>ML Project - K-Means Clustering Visualiser </b>
 
-<h2>💹Trades log</h2>
+<h2>💹Coming soon......</h2>
 
-- <b><a href="https://imgur.com/a/09-10-2024-3-45-1-account-risk-BKFoBgu">October 2024 - Trades</a>
